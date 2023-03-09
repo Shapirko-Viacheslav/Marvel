@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(206, 205, 155);
+}
+h1 {
+    color: #dd1c1c;
+    text-align: center;
+    font-size: 57px;
+}
+p {
+    font-size: 22px;
+    color: rgb(16, 111, 235);
+}
+.text {
+    color: #dd1ccd;
+}
+a {
+    font-size: 22px;
+}
+ul {
+    font-size: 22px;
+}
+.photo {
+    width: 500px;
+    height: 200px;
+    margin: 5
+    px auto;
+}
+h1{
+    text-shadow: rgb(61, 60, 53) 1px 0 10px;
+}
+a {
+    text-decoration: none;
+}
+p::first-letter{
+    font-size: 170%;
+    color: black;
+}
